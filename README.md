@@ -1,6 +1,6 @@
 # object2json
 freemarker 中将 数据对象 转换为 json 对象, 具体细节原理
-参考我的博客：[皓眸网](http://www.haomou.net)
+参考我的博客：[freemarker中将数据对象转换json](http://haomou.net/2016/03/04/2016_freemarker_2json/)
 # 使用方法
 ```
 <#include "function.ftl">
